@@ -131,4 +131,57 @@ docker push yourdockerhubusername/ml-model
 
 Your ML model using Docker is ready.
 
-Thank You....
+
+## 📖 Overview
+
+Welcome to **My App**! This project is a Dockerized application that serves a web interface for [brief description of your app, e.g., "an interactive data visualization tool for analyzing mushroom species"]. It is built using **Python** and **Streamlit**, providing an engaging and user-friendly experience for users to explore and interact with data.
+
+### 🌟 Features
+
+- **Interactive UI**: Users can easily navigate through the application and visualize data.
+- **Data Analysis**: Perform various analyses on the provided datasets.
+- **Responsive Design**: The application is designed to work seamlessly on different devices.
+
+![Overview Image](StreamlitModel_Docker/image1.jpeg)
+
+## 🛠️ Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- An **Amazon Linux 2** instance running on AWS EC2.
+- **Docker** installed on your instance.
+- Access to your AWS EC2 instance via SSH.
+- Basic knowledge of using the command line.
+
+![Overview Image](StreamlitModel_Docker/image4.jpeg)
+
+![Overview Image](StreamlitModel_Docker/image5.jpeg)
+
+
+
+### 📋 Required Software
+
+- **Docker**: A platform for developing, shipping, and running applications in containers.
+- **SSH Client**: To connect to your EC2 instance.
+
+
+![Overview Image](StreamlitModel_Docker/image2.jpeg)
+
+## 📦 Setup Instructions
+
+Follow these steps to set up and run the application:
+
+### 1. Update the System and Install Docker
+
+First, update your system packages to ensure you have the latest versions:
+
+```bash
+sudo yum update -y
+
+Now I have created the images and also runned it 
+
+![Overview Image](StreamlitModel_Docker/image3.jpeg)
+
+![Overview Image](StreamlitModel_Docker/image6.jpeg)
+
+
