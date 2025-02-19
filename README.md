@@ -142,7 +142,7 @@ Welcome to **My App**! This project is a Dockerized application that serves a we
 - **Data Analysis**: Perform various analyses on the provided datasets.
 - **Responsive Design**: The application is designed to work seamlessly on different devices.
 
-![Overview Image](StreamlitModel_Docker/image1.jpeg)
+![Overview Image](image1.jpeg)
 
 ## 🛠️ Prerequisites
 
@@ -153,9 +153,9 @@ Before you begin, ensure you have met the following requirements:
 - Access to your AWS EC2 instance via SSH.
 - Basic knowledge of using the command line.
 
-![Overview Image](StreamlitModel_Docker/image4.jpeg)
+![Overview Image](image4.jpeg)
 
-![Overview Image](StreamlitModel_Docker/image5.jpeg)
+![Overview Image](image5.jpeg)
 
 
 
@@ -165,7 +165,7 @@ Before you begin, ensure you have met the following requirements:
 - **SSH Client**: To connect to your EC2 instance.
 
 
-![Overview Image](StreamlitModel_Docker/image2.jpeg)
+![Overview Image](image2.jpeg)
 
 ## 📦 Setup Instructions
 
@@ -178,10 +178,10 @@ First, update your system packages to ensure you have the latest versions:
 ```bash
 sudo yum update -y
 
-Now I have created the images and also runned it 
+ 
 
-![Overview Image](StreamlitModel_Docker/image3.jpeg)
+![Overview Image](image3.jpeg)
 
-![Overview Image](StreamlitModel_Docker/image6.jpeg)
+![Overview Image](image6.jpeg)
 
 
